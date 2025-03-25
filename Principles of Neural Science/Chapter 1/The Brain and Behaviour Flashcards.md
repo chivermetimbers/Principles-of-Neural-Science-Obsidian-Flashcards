@@ -25,7 +25,6 @@ Which parts of the body does the spinal cord control?::Limbs and trunk
 <!--SR:!2025-04-07,41,294-->
 Which parts of the body does the spinal cord receive and process information from?::The Skin, Joints and Muscles of the Limbs and Trunk
 <!--SR:!2025-04-19,45,254-->
-SMOKE JOINTS MAN ya LIMP TWAT
 What are the regions that the spinal cord is divided into?::Cervical, Thoracic, Lumbar, Sacral
 <!--SR:!2025-03-22,31,272-->
 What does the brain stem consist of?::The Medulla Oblongata, pons and The Midbrain
