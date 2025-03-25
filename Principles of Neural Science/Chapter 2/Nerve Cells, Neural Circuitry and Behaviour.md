@@ -153,5 +153,59 @@ In the spinal cord, sensory neurons form excitatory synapses with extensor ==mot
 
 	The sensory neurons, act indirectly through interneurons, to inhibit flexor motor neurons that would otherwise contract the hamstring. This, combined with the activation of the quadriceps extends the leg.
 
+Excitatory neurons do what?::Increase likelihood of firing
+
+Inhibitory neurons do what?::Decrease likelihood of firing
+
+Excitatory connections in the leg's extensor muscles cause it to ==contract==
+
+Connections with ==inhibitory== interneurons prevent the antagonist flexor muscles from contracting
+
+Feed-forward inhibition is common in mono-synaptic ==reflex== systems
+
+In the knee-jerk reflex feed-forward inhibition is ==reciprocal==
+
+When a motor neuron makes an excitatory connection with both a muscle and an inhibitory interneuron that inhibits the motor neuron, what is this called?::Feedback inhibition
+
 **Signaling is Organized in the Same Way in All Nerve Cells**
+How many different signals must each motor or sensory cell participating in a behaviour produce in sequence?::Four
+
+	Almost all neurons can be described by a model neuron that has four functional connecting at excitatory synapses.
+
+A model neuron has four functional components that create four types of signals, what are the functional components?::Receptive, summing, long-range signaling, secretory
+
+The different kinds of signals generated in a neuron are determined by the electrical properties of what part of the nerve cell?::The cell membrane
+
+	Every cell maintains a difference of electrical potential on either side of the membrane when the cell is at rest, called 'resting membrane potential'
+
+In a typical resting neuron, the resting membrane potential is approximately 65mV, since the voltage outside the membrane is defined to be zero the voltage inside it is::-65mV
+
+What two ions are involved in maintaining membrane potential::K+ and Na+
+
+What type of molecule is responsible for pumping Na+ out of cells and K+ into cells?::Protein(specifically a membrane protein)
+
+The cell membrane is selectively permeable to what ion?::K+
+
+	A cell is said to be exciteable when its membrane potential can be quickly and significantly altered
+
+A reduction in membrane potential is called what?::Depolarization
+
+An increase in membrane potential is called what?::Hyperpolarization
+
+Depolarization is ==excitatory==
+
+Hyperpolarization is ==inhibitory==
+
+	In the knee-jerk reflex, the physical stimulus activates specialized receptor proteins at the sensory neurons receptive surface. Stretching of the muscle activates specific ion channels, that open in response to the stretch of the sensory neuron membrane. The opening of these channels permits the rapid influx of Na+ ions into the cell which changes the membrane potential producing a receptor potential
+
+The amplitude and intensity of a receptor potential depends on the intensity of the ==muscle stretch==
+
+
+
+
+
+
+
+
+
 
